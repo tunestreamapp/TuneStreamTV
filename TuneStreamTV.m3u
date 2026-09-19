@@ -2203,6 +2203,8 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 
 
+
+
 # -------- DEPORTES│🇦🇷 ARGENTINA  -------- 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6204.png", group-title="DEPORTES│🇦🇷 ARGENTINA", ESPN
 http://138.59.227.20:8000/play/a099/index.m3u8
@@ -2216,36 +2218,6 @@ http://138.59.227.20:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6214.jpeg", group-title="DEPORTES│🇦🇷 ARGENTINA", ESPN Premium
 http://138.59.227.20:8000/play/a086/index.m3u8
 
-#####################################
-# 🇦🇷 ARGENTINA | TV
-#####################################
-
-#EXTINF:-1 group-title="ARGENTINA | TV",Telefe
-http://104.238.205.28:8989/278773_.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA | TV",NETTV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA | TV",TV Publica
-http://181.209.105.115:2525/play/tvpublica/index.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA | TV",TNT Series
-http://181.209.105.115:2525/play/tntseries/index.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA | TV",TNT Novelas
-http://181.209.105.115:2525/play/tntnovelas/index.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA | TV",Star Channel
-http://181.209.105.115:2525/play/starchannel/index.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA | TV",FX
-https://181.209.105.115:2525/play/fx/index.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA | TV",History
-https://181.209.105.115:2525/play/history2/index.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA | TV",National Geographic
-https://181.209.105.115:2525/play/natgeo/index.m3u8
 
 
 
