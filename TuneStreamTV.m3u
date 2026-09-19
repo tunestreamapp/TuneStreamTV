@@ -2214,6 +2214,7 @@ http://138.59.227.20:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/espn4_ar_final.png", group-title="DEPORTES│🇦🇷 ARGENTINA", ESPN 4
 http://138.59.227.20:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6214.jpeg", group-title="DEPORTES│🇦🇷 ARGENTINA", ESPN Premium
+http://138.59.227.20:8000/play/a086/index.m3u8
 
 #####################################
 # 🇦🇷 ARGENTINA | TV
