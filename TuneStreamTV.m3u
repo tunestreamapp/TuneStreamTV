@@ -2202,54 +2202,18 @@ http://104.238.222.251:9090/281866_.m3u8
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 
-############################
-##### 🇦🇷 ARGENTINA | DEPORTES
-############################
 
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",DSPORTS
-http://190.61.41.181:8000/play/a0r5/index.m3u8
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",DSPORTS 2
-http://190.108.89.228:8000/play/a05w/index.m3u8
+# -------- DEPORTES│🇦🇷 ARGENTINA  -------- 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6204.png", group-title="DEPORTES│🇦🇷 ARGENTINA", ESPN
+http://138.59.227.20:8000/play/a099/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/espn2_ar_cutout2.png", group-title="DEPORTES│🇦🇷 ARGENTINA", ESPN 2
+http://138.59.227.20:8000/play/a098/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6206.png", group-title="DEPORTES│🇦🇷 ARGENTINA", ESPN 3
+http://138.59.227.20:8000/play/a09a/index.m3u8
 
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",DSPORTS+
-http://190.61.41.181:8000/play/a0r3/index.m3u8
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",ESPN
-http://181.13.252.102:8000/play/a05a/index.m3u8
-
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",ESPN 2
-http://181.13.252.102:8000/play/a059/index.m3u8
-
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",ESPN 3
-http://181.13.252.102:8000/play/a05b/index.m3u8
-
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",ESPN 4
-http://181.13.252.102:8000/play/a076/index.m3u8
-
-
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",ESPN 5
-http://8.243.126.131:8000/play/a0nh/index.m3u8
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",ESPN 6
-http://8.243.126.131:8000/play/a0ns/index.m3u8
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",ESPN 7
-http://8.243.126.131:8000/play/a065/index.m3u8
-
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",ESPN PREMIUM
-http://181.13.252.102:8000/play/a078/index.m3u8
-
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",FOX SPORTS 1
-http://181.13.252.102:8000/play/a07j/index.m3u8
-
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",FOX SPORTS 2
-http://181.13.252.102:8000/play/a05c/index.m3u8
-
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",FOX SPORTS 3
-http://181.13.252.102:8000/play/a02t/index.m3u8
-
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",TYC SPORTS
-http://38.49.128.38:8000/play/a0kw/index.m3u8
-
-#EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",TNT SPORTS
-http://170.247.204.9:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/espn4_ar_final.png", group-title="DEPORTES│🇦🇷 ARGENTINA", ESPN 4
+http://138.59.227.20:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6214.jpeg", group-title="DEPORTES│🇦🇷 ARGENTINA", ESPN Premium
 
 #####################################
 # 🇦🇷 ARGENTINA | TV
