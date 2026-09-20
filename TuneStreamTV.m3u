@@ -2338,23 +2338,23 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="🇪🇨 ECUADOR | DEPORTES", FOX SPORTS 
-http://181.13.252.102:8000/play/a07j/index.m3u8
+http://195.178.110.110/foxsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="🇪🇨 ECUADOR  | DEPORTES",FOX SPORTS 2
-http://181.13.252.102:8000/play/a05c/index.m3u8
+http://195.178.110.110/foxsports2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/3840px-Fox_Sports_3_Argentina_2023.svg.png" group-title="🇪🇨 ECUADOR  | DEPORTES", FOX SPORTS 3
-http://181.13.252.102:8000/play/a02t/index.m3u8
+http://195.178.110.110/foxsports3/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="🇪🇨 ECUADOR  | DEPORTES",DSPORTS
-http://190.61.41.181:8000/play/a0r5/index.m3u8
+http://195.178.110.110/dsports/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="🇪🇨 ECUADOR  | DEPORTES",DSPORTS 2
-http://190.61.41.181:8000/play/a0r4/index.m3u8 
+http://195.178.110.110/dsports2/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037s" group-title="🇪🇨 ECUADOR  | DEPORTES",DSPORTS+
-http://217.26.190.76:8888/play/a0jb/index.m3u8
+http://195.178.110.110/dsportsplus/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDm9IHSp4Jjd2mZ5NEw4Ol_8uwVUXSsyJEGC0Nh0bV4id0l4Wu4NNoiXLa-zHUhhwgRbL-LobbiM4cDYbJ5tJcapnzJlN6HWkzK84uoIsdQx4NEdUXH7lBUShyyFnp8udFc4QmS0xMEausePtT4HklIekitCuWEqcj1RgYoS6ISnmvOzmPIrclCTsDpVI/s416/ECDF.png" group-title="🇪🇨 ECUADOR  | DEPORTES",ECDF
