@@ -1119,7 +1119,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo Tucson
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo Tampa
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
+http://190.197.41.183/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo Phoenix
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
@@ -1138,6 +1138,8 @@ http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/11539
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvstations/images/5/58/Telemundo_47_2018.png/revision/latest/thumbnail/width/360/height/360?cb=20190613134720" group-title="USA LOCAL LATINOS",Telemundo New York
 http://181.119.108.43:9001/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6225.png" group-title="USA LOCAL LATINOS",TELEXITOS
+http://190.197.41.183/TELEXITOS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-500x281.png" group-title="USA LOCAL LATINOS",Univision 34 Los Angeles (KMEX)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
