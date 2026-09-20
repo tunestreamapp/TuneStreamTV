@@ -1102,7 +1102,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo - KTMD (Houston)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo - WNJU (New York)
-http://181.119.108.43:9001/play/a044/index.m3u8
+190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo - KBLR (Las Vegas)
