@@ -1278,45 +1278,17 @@ https://futbol9865.ultratv13.workers.dev/deportivo111/73.m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 
-
-########## SECTION: España🇪🇸 ##########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png", group-title="España🇪🇸",Teledeporte-ChrisJorgeTelevison2
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-
-#EXTINF:-1 tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75", group-title="España🇪🇸",GOLCLASSICS-ChrisJorgeTelevison2
-https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg", group-title="España🇪🇸",DAZN 1  HD -ChrisJorgeTelevison2
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg",group-title="España🇪🇸", DAZN 2  HD -ChrisJorgeTelevison2
-https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/50/2/dazn-3-logo-png_seeklogo-501040.png",group-title="España🇪🇸",   DAZN 3  HD -ChrisJorgeTelevison2
-https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png",group-title="España🇪🇸", DAZN 4  HD -ChrisJorgeTelevison2
-https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", group-title="España🇪🇸",  DAZN F1  HD -ChrisJorgeTelevison2
-https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_1.svg",group-title="España🇪🇸", DAZN 1  HD -ChrisJorgeTelevison2
-https://x4new.newkso.ru/x4/dazn1uk/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/DAZN_LaLiga_logo.svg",group-title="España🇪🇸", DAZN LALIGA  HD (SPAIN)-ChrisJorgeTelevison2
-https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1924px-LaLiga_SmartBank_TV_logo.svg.png",group-title="España🇪🇸", DAZN LaLiga SmartBank TV HD -ChrisJorgeTelevison2 
-https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1758424394798419968/J4SP-oLW_200x200.jpg", group-title="España🇪🇸", DAZN Women's Football-ChrisJorgeTelevison2 
-https://apollo.production-public.tubi.io/live/dazn-womens-football/1280x720.m3u8?ap.debug=0&ap.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS8wMmU0NGJmYS0yNjk4LTQyZTEtYmQxMC0wZjczN2Q5Mzk5OTIvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKaU5UZzRObVkxTVMxbE5qVm1MVFJpTlRNdFlqSTJNQzFpWVRBd01qbGlOelprTm1RaUxDSmxlSEFpT2pFM05EWXpNalUxTURRc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pZVc4Nk5qYzBNakkyTXpjNUlpd2lkWE5sY2w5cFpDSTZNVGsxTlRJeU5UQTBmUS4wRVlGb1JFQ09CZXpQMTZKVWpZYkhMR05KZjl1Vi05aXU3UDhDLVNQTmNvRF9yRWVHQ0xJMk5RQmhRR29MYmVUSzRyRk9ubEE5YUxieEZuUm9jcnZ1USZ0Yi5zaWQ9MWZiYjY1MDItMGEzOC00NjA1LWE3YWQtMTlmMTM4YWE2MjBiJnlvLWZiPWh0dHBzJTNBJTJGJTJGbGl2ZS1tYW5pZmVzdC5wcm9kdWN0aW9uLXB1YmxpYy50dWJpLmlvJTJGbGl2ZSUyRjAyZTQ0YmZhLTI2OTgtNDJlMS1iZDEwLTBmNzM3ZDkzOTk5MiUyRnBsYXlsaXN0Lm0zdTglM0Z0b2tlbiUzRGV5SmhiR2NpT2lKSVV6VXhNaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYjNWdWRISjVJam9pVlZNaUxDSmtaWFpwWTJWZmFXUWlPaUppTlRnNE5tWTFNUzFsTmpWbUxUUmlOVE10WWpJMk1DMWlZVEF3TWpsaU56WmtObVFpTENKbGVIQWlPakUzTkRZek1qVTFNRFFzSW1semN5STZJbXhwZG1WZmJtVjNjMTl0WVc1cFptVnpkQ0lzSW5Cc1lYUm1iM0p0SWpvaVYwVkNJaXdpY25Oeklqb2lZV2NpTENKMWMyVnlYMmxrSWpveE9UVTFNakkxTURSOS5DWWl4b0U0YV9KczViY0poUTRUdUdfTWY5eDZsS0gyMjMxbXdWMm41S1dkbUpCTGEyMHhZSFpxQTRheVREWHM1RDFaQnNHMXlyRzZuUjNWdXdjSE94USUyNnRiLnNpZCUzRGMyOGQ0MmVmLWE4ZDMtNGViNC05ZjU1LTU3YWUwOTRiMDc1Mw&ap.furl=0&ap.pt=2&ap.sid=19193617-6906-48b9-93ee-d007cff455cf&ap.skip_fallback=0&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=400000084&content_type=mp4&device_id=b5886f51-e65f-4b53-b260-ba0029b76d6d&language=en&now_pos=0&platform=WEB&playback_start_ts=1746066304&pub_id=c0d21f29265a6d9d8871cd1b06965507&tb.sid=d00e5e42-5ac7-4689-b636-29e3ace78cd1&user_id=195522504&vpaid_enabled=false&ap.c=default_cohort&ap.ss=ae56629c5c847d016d76e872c65b3714
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/thumbnail.jpg",group-title="España🇪🇸", DAZN RingSide (SPAIN)-ChrisJorgeTelevison2 
-https://apollo.production-public.tubi.io/live/dazn-ringside2/1280x720.m3u8?ap.debug=0&ap.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS82NTZmYzMyMC1hNzZmLTRiZTMtOWIwZC01MGJjNDJmYTU5ZGQvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lJM016VTJZVGd4T0MwNFpXWTRMVFExWXprdFlXTTVaQzAyTUdFNE56UmpNV00wWmpraUxDSmxlSEFpT2pFM05UTTNOVFV6TWpjc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pY21NNmFIUjBjSE02THk5aFpXZHBjeTFqYkc5MVpHWnliMjUwTFRFdWRIVmlhUzUyYVdSbGJ5OWhaR00zTjJZek15MWhZamRpTFRRMU5UTXRZamc0TmkxaE16RmtOek5pTldKbE9UTXZjR3hoZVd4cGMzUXViVE4xT0NJc0luVnpaWEpmYVdRaU9qQjkuc0RyTXhzeWtGSEptMzRyWHcxSnY0a3ZKYkZrcFprdzcxckVEeDFXaER1cWwxLUhkS0t0LV9ReS1rME42cXFlSXJaUzNTZVhvazZIYXFjb21ZYml2YkEmdGIuc2lkPTJkNjk5MDQyLWYzYjgtNGFkNy1iNWRiLTk2ZTE4YzIzYzU4YQ&ap.furl=0&ap.pt=2&ap.sid=5fa6094c-723e-4958-9d70-27986e092de0&ap.skip_fallback=0&app_id=tubitv&app_mode=DEFAULT_MODE&container_id=featured&content_id=400000024&content_type=mp4&device_id=7356a818-8ef8-45c9-ac9d-60a874c1c4f9&language=en&now_pos=0&origin=container&platform=WEB&playback_start_ts=1753496259&pub_id=c0d21f29265a6d9d8871cd1b06965507&tb.sid=a1bdf706-22f9-4d0d-ba51-7ab7383c8481&vpaid_enabled=false&ap.c=default_cohort&ap.ss=1bbb800907ff04dc48b854189c18f498
-,
-#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/02/Entete-DAZN-Combat.png", group-title="España🇪🇸", DAZN Combat-ChrisJorgeTelevison2 
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+# -------- DEPORTES│España🇪🇸  --------
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6280.png" group-title="DEPORTES│España🇪🇸", Dazn 1
+https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6281.png" group-title="DEPORTES│España🇪🇸", Dazn 2
+https://live881.videxhd.sbs/tvtvhd/dazn2/index.m3u8?api=1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6282.webp" group-title="DEPORTES│España🇪🇸", Dazn 3
+https://live83.videxhd.sbs/tvtvhd/dazn3/index.m3u8?api=1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6283.png" group-title="DEPORTES│España🇪🇸", Dazn 4
+https://live81.videxhd.sbs/tvtvhd/dazn4/index.m3u8?api=1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_6284.jpeg" group-title="DEPORTES│España🇪🇸", Dazn F1
+https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234
  ########## SECTION: Guatemala🇬🇹 ##########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Guatemala🇬🇹",Distrito Comedia HD - ChrisJorgeTelevison2
 http://179.60.224.196:8000/play/a0ek/index.m3u8
