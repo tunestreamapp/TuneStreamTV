@@ -1317,66 +1317,17 @@ http://179.60.224.196:8000/play/a0f9/index.m3u8
 http://179.60.224.196:8000/play/a0dw/index.m3u8
 
 # -------- DEPORTES│MEXICO🇲🇽 --------
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espnmexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN
-http://38.194.226.190:8000/play/a01v/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espnmexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN ChrisJorgeTelevison2
-http://45.228.234.62:8000/play/a002/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 2
-http://38.194.226.190:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 2 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espnmexico.png",   group-title="DEPORTES│MEXICO🇲🇽", ESPN ChrisJorgeTelevison2
+http://45.228.234.62:8000/play/a002/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.png",    group-title="DEPORTES│MEXICO🇲🇽",ESPN 2 -ChrisJorgeTelevison2
 http://45.228.234.62:8000/play/a003/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn3mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 3
-http://38.194.226.190:8000/play/a002/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn3mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 3 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn3mexico.png",  group-title="DEPORTES│MEXICO🇲🇽", ESPN 3 -ChrisJorgeTelevison2
 http://45.228.234.62:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn4mexico.png",   group-title="DEPORTES│MEXICO🇲🇽", ESPN 4-ChrisJorgeTelevison2
+ http://45.228.234.62:8000/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn4mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 4
-http://38.194.226.190:8000/play/a02x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn4mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 4 - ChrisJorgeTelevison2
-http://45.228.234.62:8000/play/a058/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn5mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 5 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn5mexico.png",  group-title="DEPORTES│MEXICO🇲🇽", ESPN 5 -ChrisJorgeTelevison2
 http://200.92.227.238:8000/play/a0um/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES│MEXICO🇲🇽",FOX SPORT
-http://38.194.226.190:8000/play/a00h/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Fox_Sports_2_MX.svg/revision/latest/scale-to-width-down/300?cb=20241222132246" group-title="DEPORTES│MEXICO🇲🇽",FOX SPORT 2
-http://38.194.226.190:8000/play/a011/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fox_Sports_3_MX.svg/revision/latest/scale-to-width-down/300?cb=20241222132427" group-title="DEPORTES│MEXICO🇲🇽",FOX SPORT 3
-http://38.194.226.190:8000/play/a02m/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Fox_Sports_Premium_MX_II.svg/revision/latest/scale-to-width-down/300?cb=20241222132515" group-title="DEPORTES│MEXICO🇲🇽",FOX SPORT PREMIUM
-http://38.194.226.190:8000/play/a003/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/165104_149063901812135_6685373_n.jpg/revision/latest/scale-to-width-down/200?cb=20130608195911" group-title="DEPORTES│MEXICO🇲🇽",AYM SPORT
-http://38.194.226.190:8000/play/a00z/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/250px-Aztecadeporteslogo.png" group-title="DEPORTES│MEXICO🇲🇽",AZTECA DEPORTES
-http://38.194.226.190:8000/play/a02r/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/0/04/20200407000320%21CBC_Sports_Logo.png" group-title="DEPORTES│MEXICO🇲🇽",CBC Sports
-http://38.194.226.190:8000/play/a02v/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN +
-http://38.194.226.190:8000/play/a01m/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="DEPORTES│MEXICO🇲🇽",ITV Deportes 1
-http://38.194.226.190:8000/play/a033/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small/nba-logo-on-transparent-background-free-vector.jpg" group-title="DEPORTES│MEXICO🇲🇽",NBA
-http://38.194.226.190:8000/play/a001/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/960px-National_Football_League_logo.svg.png" group-title="DEPORTES│MEXICO🇲🇽",NFL
-http://38.194.226.190:8000/play/a00y/index.m3u8?hls
 
 
 
