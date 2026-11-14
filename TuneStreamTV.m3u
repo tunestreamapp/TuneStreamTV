@@ -8,8 +8,8 @@ http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/906629853_1199920639190147_744313856642527604_n.webp" group-title="Eventos Darios:11/14/2026",Boca Juniors vs Benfield|5:00pm
 http://138.59.227.20:8000/play/a06x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/823507230_1645897630612031_5644304493396854562_n.png" group-title="Eventos Darios:11/14/2026",Ecuador vs Costa Rica|7:00pm
-http://181.119.185.32:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/911292819_1134285726021463_3769871905259699923_n.webp" group-title="Eventos Darios:11/14/2026",Mexico vs Jamaica|8:00pm
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 
 
