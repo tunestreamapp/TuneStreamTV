@@ -1,14 +1,15 @@
 #EXTINF
-
+http://138.59.227.20:8000/play/a06x/index.m3u8
 # -------- Eventos Darios:11/13/2026 --------
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/904058037_2639251626901026_1920287470543239154_n.webp" group-title="Eventos Darios:11/13/2026",Poland vs Romania|2:45 PM
+http://107.167.16.138/fubosportsnetwork/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/906629853_1199920639190147_744313856642527604_n.webp" group-title="Eventos Darios:11/13/2026",Boca Juniors vs Benfield|5:00pm
+http://138.59.227.20:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/901667889_2635851693528752_3520922310202469253_n.webp" group-title="Eventos Darios:11/13/2026",Argentina vs Uruguay|6:00pm
 http://200.123.40.1:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/823507230_1645897630612031_5644304493396854562_n.png" group-title="Eventos Darios:11/13/2026",Ecuador vs Costa Rica|7:00pm
 http://181.119.185.32:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/823507230_1645897630612031_5644304493396854562_n.png" group-title="Eventos Darios:11/13/2026",Ecuador vs Costa Rica(Señal 2📡)|7:00pm
-http://45.188.229.33:8000/play/a1gk/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/903071863_1450720746651126_6090636513383980924_n.webp" group-title="Eventos Darios:11/13/2026",Colombia vs Chile|7:00pm
-http://190.60.40.165:1010/play/485a/index.m3u8
+
 
 
 
