@@ -1,17 +1,11 @@
 #EXTINF
 
 # -------- Eventos Darios:11/17/2026 --------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/914855568_964065556497497_8636857880810644578_n.webp" group-title="Eventos Darios:11/17/2026",Colombia  vs Chile|6:00PM
-http://190.60.40.165:1010/play/485a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/907688362_1779578963134334_4289218792122110794_n.webp" group-title="Eventos Darios:11/17/2026",USA vs Haiti|4:30pm
-http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/913892325_1503982881618481_8249034386041348841_n.webp" group-title="Eventos Darios:11/17/2026", Ecuador vs Bolivia|6:30pm
 http://45.188.229.33:8000/play/a1gk/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/912094252_990430220805065_3507473389127258860_n.webp" group-title="Eventos Darios:11/17/2026",Mexico vs Jamaica|9:30pm
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 
 
